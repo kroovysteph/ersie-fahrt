@@ -18,9 +18,16 @@ a) Kopiere alle Text-Dateien (.txt) aus dem Downloads-Ordner
 b) Kopiere alle Film-Dateien (.mp4) aus dem Downloads-Ordner
    in den Ordner Good, der sich im Movies-Ordner befindet.
 
+c) Verschiebe nun die Filmreihe, die du am wenigsten magst in den Bad-Ordner.
+
 
 # Aufgabe 2
 
-cat, head, tail, sort
+cat, head, tail, shuf
 
 Lass dir genau einen zufaelligen Film aus dem Movies-Ordner ausgeben.
+
+
+# Aufgabe 3
+
+
